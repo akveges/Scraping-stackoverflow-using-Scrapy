@@ -1,6 +1,5 @@
 # Scraping-stackoverflow-using-Scrapy
 
-All the questions have to be executed using the commands provided in your command prompt (Windows) or terminal (UNIX/Linux/Mac).
 
 Questions 1-4 have to be done using scrapy shell
 Question 5 has to to executed using scrapy runspider spider_file.py -o outputfile_name -t file_extension
